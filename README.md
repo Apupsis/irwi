@@ -11,7 +11,7 @@ application.
 
 Add to your Gemfile:
 
-    gem 'irwi', :git => 'git://github.com/alno/irwi.git'
+    gem 'irwi', :git => 'https://github.com/Apupsis/irwi'
 
 Then in your application directory call:
 
